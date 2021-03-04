@@ -1,0 +1,3 @@
+SELECT COUNT(*)
+FROM Invoice
+WHERE InvoiceId BETWEEN 1 AND 37
